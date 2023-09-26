@@ -1,0 +1,20 @@
+@import '../abstract/variaveis';
+
+#single {    
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    width: 37.5rem;
+    padding: 2rem;
+    border: 2px solid $cor-terciaria;
+    border-radius: 3.125rem;
+    background-color: $cor-secundaria;
+    color: $cor-primaria;
+    .inner-single {
+        text-align: center;
+        font-size: $tamanho-texto / 2.5;
+        font-weight: 300;
+        line-height: 1.25rem;
+    }
+}
