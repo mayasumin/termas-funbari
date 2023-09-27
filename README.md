@@ -1,5 +1,5 @@
 
-#  Termas Funbari
+#  Termas de Funbari
 
 Tem se sentido cansado? Sobrecarregado pelo estresse do dia-a-dia? Nas Termas de Funbari as fontes jorram, proporcionando relaxamento em suas águas quentes, além dos outros serviços oferecidos pela nossa pousada. Venha nos visitar! Estamos nos arredores de Tóquio, embora tecnicamente seja na província de Saitama. Estamos te esperando!
 
